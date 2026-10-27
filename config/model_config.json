@@ -1,0 +1,10 @@
+{
+  "model_name": "CB Quantum Entropy Predictor",
+  "version": "6.0.0-neural",
+  "regime_states": [
+    "PERSISTENT_TREND",
+    "MEAN_REVERTING_NOISE"
+  ],
+  "entropy_window_ticks": 64,
+  "confidence_cutoff": 0.9
+}
