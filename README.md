@@ -1,6 +1,6 @@
 # 🔮 AI Entropy OTC Market Microstructure & Signal Predictor
 
-> **2027–2030 Viral Algorithmic Engine: Shannon Entropy Volatility Bounds & Markov Regime-Switching Predictor for 24/7 OTC Binary Options.**
+> **2027-2030 Viral Algorithmic Engine: Shannon Entropy Volatility Bounds & Markov Regime-Switching Predictor for 24/7 OTC Binary Options.**
 
 [![Official Telegram Channel](https://img.shields.io/badge/Join_Telegram-CB_Traders_BD-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/+R_kEsY9yqkA1NDI1)
 [![Direct Contact](https://img.shields.io/badge/Order_AI_Predictor-@YouKnowWho__am-blue?style=for-the-badge&logo=telegram)](https://t.me/YouKnowWho_am)
@@ -48,7 +48,7 @@ python examples/run_entropy_demo.py
 
 ---
 
-## 🌐 CB Traders BD Ecosystem — Explore All Broker APIs & Bots
+## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
 Cross-platform algorithmic trading, real-time WebSocket feeds, and AI signal engines:
 
