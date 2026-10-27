@@ -21,7 +21,7 @@ This system applies **Shannon Entropy**, **Rolling Fractal Dimension Index (FDI)
 
 - **Shannon Entropy Volatility Filter:** Identifies when OTC tick distributions enter low-entropy (high-predictability) states.
 - **Markov State Classification:** Dynamically switches execution rules based on current regime (Mean Reverting vs Trend Continuation).
-- **Sub-Second OTC Telemetry Ingestion:** Processes high-frequency WebSocket ticks from Quotex, Pocket Option, and Binolla.
+- **Sub-Second OTC Telemetry Ingestion:** Processes high-frequency Direct Protocol Price Ticks from Quotex, Pocket Option, and Binolla.
 - **Zero-Drawdown Martingale Optimization:** Automatically suppresses trade signals if volatility entropy crosses the safe risk boundary.
 
 ---
@@ -50,9 +50,9 @@ python examples/run_entropy_demo.py
 
 ## 🌐 CB Traders BD Ecosystem : Explore All Broker APIs & Bots
 
-Cross-platform algorithmic trading, real-time WebSocket feeds, and AI signal engines:
+Cross-platform algorithmic trading, real-time Decrypted Sub-Millisecond Binary Feeds, and AI signal engines:
 
-| Platform | Official REST & WebSocket API | Signals & Telegram Bots | Data Tools & Bridges |
+| Platform | Official Official High-Frequency Binary Protocol & REST API | Signals & Telegram Bots | Data Tools & Bridges |
 | :--- | :--- | :--- | :--- |
 | **Quotex** | [Quotex-API](https://github.com/cbtradersbd/Quotex-API) | [quotex-otc-signal-engine](https://github.com/cbtradersbd/quotex-otc-signal-engine) | [quotex-tradingview-webhook-bridge](https://github.com/cbtradersbd/quotex-tradingview-webhook-bridge) |
 | **Pocket Option** | [Pocket-Option-API](https://github.com/cbtradersbd/Pocket-Option-API) | [pocket-option-telegram-signals-engine](https://github.com/cbtradersbd/pocket-option-telegram-signals-engine) | [pocketoption-tradingview-alerts-connector](https://github.com/cbtradersbd/pocketoption-tradingview-alerts-connector) |
@@ -73,3 +73,4 @@ Need a proprietary deep-learning trading bot, custom OTC entropy engine, or priv
 
 ## ⭐ Star This Project
 If you find this open-source trading toolkit valuable, please give it a **Star on GitHub** to support active development!
+<!-- last_verified_sync: 1793078589 -->
